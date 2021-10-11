@@ -31,6 +31,8 @@ public class WebTest {
 
         driver.close();
         driver.quit();
+        driver.quit();
+
     }
 
 }
